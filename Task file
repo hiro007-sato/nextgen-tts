@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body> <h2>အချက်အလက်ဖြည့်ပေးပါ</h2> <form action="https://postimages.org/"method="get">
+  <label>Username:</label>
+  <input type="text"><br>
+
+  <label>Password:</label>
+  <input type="password"><br>
+  
+  <label>Email:</label>
+  <input type="email"><br>
+  
+  <h4>နိုင်ငံ</h4>
+  <select>
+  <option>Myanmar</option>
+  <option>Thailand</option>
+  <option>Japan</option>
+</select>
+
+  <button type="submit">Login</button>
+  <button type="reset">Clear</button>
+</form><br>
+commet
+<textarea rows="4" cols="40"></textarea>
+        
+    </body>
+</html>
